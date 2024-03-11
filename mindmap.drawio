@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-03-11T06:00:26.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="E7p0AoD_jOU24YqsAwDF" version="24.0.2" type="google">
+  <diagram name="Halaman-1" id="pZZ85ngKXAz2BOiZ2yTN">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-1" value="BAB 1&amp;nbsp;&lt;div&gt;PENGENALAN SISTEM OPERASI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-4" value="&lt;b&gt;PENGENALAN&lt;/b&gt;&lt;div&gt;Operating System (OS) adalah sekumpulan program yang berfungsi sebagai interface antara pengguna komputer dan hardware komputer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-7" target="u8WhUiUDWZ8dqI-3lN42-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-7" value="OS adalah program yang dimuat oleh boot program. OS bertugas untuk mengatur jalannya semua program dalam komputer.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="330" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151.9473684210525" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-9" value="&lt;b&gt;GEN 0&lt;/b&gt;&lt;div&gt;Generasi&amp;nbsp; 0 merujuk pada periode pengembangan. komponen perangkat keras pada periode ini adalah tabung vacuum.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48.75" y="480" width="207.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-12" target="u8WhUiUDWZ8dqI-3lN42-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-12" value="&lt;b&gt;Gen 1&lt;/b&gt;&lt;div&gt;generasi pertama komputer ditandai dengan awal komputasi komersial. ditambah juga dengan pengenalan UNIVAC 1 pada awal 1951.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="640" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-13" target="u8WhUiUDWZ8dqI-3lN42-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-13" value="&lt;b&gt;Gen 2&lt;br&gt;&lt;/b&gt;&lt;div&gt;generasi komputer ke 2 ditandai dengan digantikannya vacuum dengan transistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="820" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u8WhUiUDWZ8dqI-3lN42-16" target="u8WhUiUDWZ8dqI-3lN42-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-16" value="&lt;b&gt;Gen 3&amp;nbsp;&lt;/b&gt;&lt;div&gt;generasi ini secara resmi dimulai pada april 1964 dengan pengumuman oleh IBM.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="970" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u8WhUiUDWZ8dqI-3lN42-18" value="&lt;b&gt;Gen 4&lt;/b&gt;&lt;div&gt;generasi ke 4 ditandai dengan hadirnya personal komputer. komputer generasi ini menjadi lebih ringkas bentuknya.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="975" width="220" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
