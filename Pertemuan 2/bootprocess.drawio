@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" modified="2024-05-06T19:04:55.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HQ4qM6SC-pMROghJ7B3A" version="24.3.1" type="github">
+  <diagram name="Halaman-1" id="h5JYjf_8pk-Q1HPynD9Z">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-11" value="POWER&lt;br&gt;ON" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-13" value="POST&lt;br&gt;(Power-On Self-Test)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-15" target="vF2Hv5RIeeSxBDq98Lew-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-15" value="BIOS&lt;br&gt;INIZIALITATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-17" target="vF2Hv5RIeeSxBDq98Lew-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-17" value="BOOT DEVICE SELECTION: BIOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-19" target="vF2Hv5RIeeSxBDq98Lew-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-19" value="Bootstrap Loader : BIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-20" value="Login atau desktop environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-22" target="vF2Hv5RIeeSxBDq98Lew-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-22" value="Kernel Initialization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-24" target="vF2Hv5RIeeSxBDq98Lew-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-24" value="User Space Initialization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF2Hv5RIeeSxBDq98Lew-26" target="vF2Hv5RIeeSxBDq98Lew-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2Hv5RIeeSxBDq98Lew-26" value="Kernel Loading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
