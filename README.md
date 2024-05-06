@@ -6,7 +6,7 @@ Kelas  : D3 TI A LA**
 
 | Folder | Link |
 | ------ | ---- |
-| Pertemuan 1 | [here](./pertemuan1)  |
+| Pertemuan 1 | [here](./Pertemuan_1)  |
 ## Tugas 3
 ### SIKLUS CPU
 
