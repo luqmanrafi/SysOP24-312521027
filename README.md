@@ -15,5 +15,6 @@ Kelas  : D3 TI A LA**
 | Pertemuan 9 | [here](./Pertemuan%209)  |
 | Pertemuan 10 | [here](./Pertemuan%2010)  |
 | Pertemuan 11 | [here](./Pertemuan%2011)  |
+| Pertemuan 12 | [here](./Pertemuan%2012)  |
 
 
