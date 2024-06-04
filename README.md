@@ -13,5 +13,6 @@ Kelas  : D3 TI A LA**
 | Pertemuan 5 | [here](./Pertemuan%204)  |
 | Pertemuan 6 | [here](./Pertemuan%204)  |
 | Pertemuan 9 | [here](./Pertemuan%204)  |
+| Pertemuan 11 | [here](./Pertemuan%204)  |
 
 
