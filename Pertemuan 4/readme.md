@@ -1,3 +1,5 @@
+![image](https://github.com/luqmanrafi/SysOP24-312521027/assets/70551637/3be325de-ff61-4ff8-a694-4a2906fa28e1)
+
 PROGRAM COUNTER 0
 - FETCH
   ![image](https://github.com/luqmanrafi/SysOP24-312521027/assets/70551637/a1d73f8d-f067-4456-b056-d5b6b50f1bf9)
